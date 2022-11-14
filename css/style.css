@@ -1187,14 +1187,14 @@ background: linear-gradient(135deg, #ffdee9 0%,#c8fff4  100%);}
 content: '';   position: absolute;   top: 0;   height: 100%;   width: 100%;   opacity: .85;     right: 0;    left: 0; z-index:0;
 /*-moz-background: url(../images/banner/main-banner.png);
 -webkit-background: url(../images/banner/main-banner.png);*/
-background: url(../images/banner/main-banner.png);}
+/*background: url(../images/banner/main-banner.png);*/}
 .breadcrumb-area:after{
 content: ''; z-index:0;
 background: url();
 background-size: auto;   position: absolute;   height: 100%;   width: 100%;   background-repeat: no-repeat;
 right: 0;   top: 0;   z-index: 1;   background-position: center right; background-size: contain;}
 .breadcrumb-area ul li {    display: block;    display: inline-block;}
-.breadcrumb-area .bread-menu li a {    color: #6a6a8e;    font-size: 16px;    font-weight: 400;    padding-right: 6px;  display: inline-block;}
+.breadcrumb-area .bread-menu li a {    color: #fff;    font-size: 16px;    font-weight: 400;    padding-right: 6px;  display: inline-block;}
 .breadcrumb-area .bread-menu li + li::before {
 font-size: 5px;
 font-family: 'Font Awesome 5 Free';
@@ -1628,7 +1628,8 @@ border-radius: 5px;}
 .post-navigation span a {color: #6a6a8e;   margin-bottom: 5px;  display: block;}
 .post-navigation h4 a{ color: #050748;}
 /**contact page**/
-.banner-6{background: url(../images/banner/4.jpg);   background-repeat: no-repeat;    background-size: cover; background-position: center center;}
+.contact-page { background: #050a30; }
+.banner-6{background: url(../images/banner/contact-us.jpg);   background-repeat: no-repeat;    background-size: cover; background-position: center center;}
 .contact-location{overflow:hidden;}
 .info-card { padding: 30px;
 -webkit-box-shadow: 0 3.4px 2.7px -30px rgba(0, 0, 0, 0.059), 0 8.2px 8.9px -30px rgba(0, 0, 0, 0.071), 0 25px 40px -30px rgba(0, 0, 0, 0.2);
@@ -1637,9 +1638,9 @@ box-shadow: 0 3.4px 2.7px -30px rgba(0, 0, 0, 0.059), 0 8.2px 8.9px -30px rgba(0
 .email-card{background: #ffecec;}
 .skype-card{background: #eafffd;}
 .info-card span i{    margin-right: 10px;}
-.info-card span{ font-size: 20px;   font-weight: 700; font-family: 'Poppins', sans-serif;}
-.info-card p{font-size: 16px; line-height: 28px; margin: 20px 0 10px 0; }
-.info-card a{font-size: 20px;  color: inherit;  font-weight: 600;}
+.info-card span{ color: #e60072; font-size: 20px;   font-weight: 700; font-family: 'Poppins', sans-serif;}
+.info-card p{font-size: 16px; color: #050a30; line-height: 28px; margin: 20px 0 10px 0; }
+.info-card a{font-size: 20px;  color: #050a30;  font-weight: 600;}
 .bglight{    background: #fbfbfb;}
 /**list**/
 .list-ul li{padding: 0 0px 12px 29px; position: relative; line-height: 22px; font-size: 16px;}
