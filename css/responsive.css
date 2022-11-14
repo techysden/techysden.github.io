@@ -181,9 +181,9 @@
     .m-mt50{margin-top: 50px;}
     .m-mt30{margin-top: 30px;}
     .lead-gen-client .clients-logo {max-height: max-content; min-height: auto; padding: 30px 10px;}
-    .main-header.sticky {height: 65px;}
+    .main-header.sticky {height: 100px;}
     .main-header.sticky .dsk-logo {line-height: 65px;}
-    .main-header.sticky .nav-brand img {max-height: 55px;}
+    .main-header.sticky .nav-brand img {max-height: 120px;}
     .footer-badges- {margin-top: 20px;}
     .footer-brands{text-align: center}
     .ftr-brand-pp .btn-main {width: max-content;margin: 20px 0 0 0;display: block;}
