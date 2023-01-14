@@ -229,7 +229,7 @@
     .statistics {text-align: left}
     .about-agency p, .about-image, .block-1 .small, .block-1 .statnumb, .case-study1 p, .case-study3 p, .common-heading.pp, .email-subs, .filter-menu, .in-stats .statistics, .office-text, .service p, .testimonial-card .t-text {text-align: center}
     .small {margin-top: 0}
-    .small .statistics span {color: #050748}
+    .small .statistics span {color: #FFFCF1}
     .statistics-img {width: 80px;    height: 80px;}
     .small .statistics-img {width: 80px;    height: 80px;}
     .icon-set, .opl ul li {width: 33.333% }

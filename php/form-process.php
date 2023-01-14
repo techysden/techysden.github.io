@@ -33,9 +33,9 @@ if (empty($_POST["message"])) {
 }
 
 // add email and subject to get email in inbox
-$EmailTo = "add email address";
-$EmailTo1 = "add email address";
-$Subject = "add subject here";
+$EmailTo = "info@techysden.com";
+$EmailTo1 = "techysden@gmail.com";
+$Subject = "New query from contact form";
 
 // prepare email body text
 $Body = "";

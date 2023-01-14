@@ -1,6 +1,4 @@
-/*Theme: Niwax - Creative Web Design & Digital Marketing Agency HTML5 Template
-Author: Rajesh-Doot
-File Description: Main CSS file of the template*/
+/*File Description: Main CSS file of the template*/
 
 /*scrollbar theme*/
 ::-webkit-scrollbar {width:3px;}
@@ -97,7 +95,7 @@ box-shadow: 0 3.4px 2.7px -30px rgba(0, 0, 0, 0.059), 0 8.2px 8.9px -30px rgba(0
 .dropdown-item { display: block; width: 100%; clear: both;  font-weight: 400; text-align: inherit; white-space: nowrap; background-color: transparent;
 border: 0; font-size: 15px; color: #0a2233; font-family: 'Poppins', sans-serif; font-weight: 500; padding: 10px 15px;}
 .navbar-toggler { background-color: #fff; border: 1px solid #fff;}
-.top-header  .sticky{ background: #fff; -webkit-box-shadow: 0 4px 6px 0 rgba(12, 0, 46, .08); box-shadow: 0 4px 6px 0 rgba(12, 0, 46, .08); height: 70px;}
+.top-header  .sticky{ background: #05; -webkit-box-shadow: 0 4px 6px 0 rgba(12, 0, 46, .08); box-shadow: 0 4px 6px 0 rgba(12, 0, 46, .08); height: 70px;}
 .nav-item.dropdown:hover{background: #fff}
 .list-mnu li a{white-space: break-spaces; line-height: 24px; padding: 5px 10px;}
 .navbar-light .navbar-nav .nav-link {
@@ -1261,7 +1259,7 @@ right: -55px;
 bottom: -55px;
 z-index: 0;}
 /**Portfolio page**/
-.banner-3{background: url();   background-repeat: no-repeat;    background-size: cover; background-position: center center;}
+.banner-3{background: url(../images/banner/main-banner.png);   background-repeat: no-repeat;    background-size: cover; background-position: center center;}
 .common-heading.pp h2 { margin-bottom:0px;}
 .common-heading.pp{ padding: 0;    text-align: left;}
 .common-heading.pp p{    margin: 20px 0 0 0;}
@@ -1629,7 +1627,7 @@ border-radius: 5px;}
 .post-navigation h4 a{ color: #050748;}
 /**contact page**/
 .contact-page { background: #050a30; }
-.banner-6{background: url(../images/banner/contact-us.jpg);   background-repeat: no-repeat;    background-size: cover; background-position: center center;}
+.banner-6{background: url(../images/banner/main-banner.png);   background-repeat: no-repeat;    background-size: cover; background-position: center center;}
 .contact-location{overflow:hidden;}
 .info-card { padding: 30px;
 -webkit-box-shadow: 0 3.4px 2.7px -30px rgba(0, 0, 0, 0.059), 0 8.2px 8.9px -30px rgba(0, 0, 0, 0.071), 0 25px 40px -30px rgba(0, 0, 0, 0.2);

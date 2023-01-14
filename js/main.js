@@ -1,6 +1,4 @@
-/* Theme: Niwax - Creative Web Design & Digital Marketing Agency HTML5 Template
-Author: Rajesh-Doot	
-File Description: Main JS file of the template*/
+/* File Description: Main JS file of the template*/
 (function ($) {
     "use strict";
   
